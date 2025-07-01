@@ -1,6 +1,7 @@
 # 🚀 Quest React Básico 
 Exercícios práticos dos primeiros passos com React, focando em componentes, props, JSX e renderização.</p>
-🛠️ Tecnologias
+## 🛠️ Tecnologias
+
 ⚛️ React
 
 🧠 JavaScript
