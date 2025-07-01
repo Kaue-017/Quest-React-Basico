@@ -1,5 +1,9 @@
 # 🚀 Quest React Básico 
-Exercícios práticos dos primeiros passos com React, focando em componentes, props, JSX e renderização.</p>
+Exercícios práticos dos primeiros passos com React, focando em componentes, props, JSX e renderização.
+
+## 📚 Objetivo
+Praticar os conceitos básicos do React, com exemplos simples e didáticos.
+
 ## 🛠️ Tecnologias
 
 ⚛️ React
@@ -20,6 +24,3 @@ cd Quest-React-Basico
 npm install
 ### 4. Inicie o servidor de desenvolvimento
 npm run dev
-
-## 📚 Objetivo
-Praticar os conceitos básicos do React, com exemplos simples e didáticos.
